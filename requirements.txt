@@ -1,0 +1,8 @@
+# Core dependencies
+# Add your project dependencies here
+
+# Example:
+# flask>=2.0.0
+# fastapi>=0.68.0
+# uvicorn>=0.15.0
+
