@@ -1,8 +1,78 @@
-# Core dependencies
-# Add your project dependencies here
+# Core Web Framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
 
-# Example:
-# flask>=2.0.0
-# fastapi>=0.68.0
-# uvicorn>=0.15.0
+# Database
+sqlalchemy>=2.0.0
+alembic>=1.13.0
+psycopg2-binary>=2.9.0  # For PostgreSQL
+sqlite3  # Built-in for development
+
+# Authentication & Security
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.0
+python-multipart>=0.0.6
+
+# Machine Learning & AI
+scikit-learn>=1.3.0
+pandas>=2.1.0
+numpy>=1.24.0
+tensorflow>=2.15.0  # For computer vision models
+torch>=2.1.0
+transformers>=4.36.0
+pillow>=10.0.0
+
+# Computer Vision
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+
+# API Clients for AI Services
+requests>=2.31.0
+httpx>=0.25.0
+aiohttp>=3.9.0
+
+# Data Processing
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Image Processing
+Pillow>=10.0.0
+imageio>=2.33.0
+
+# Video Processing
+moviepy>=1.0.3
+opencv-python>=4.8.0
+
+# Nutrition & Recipe APIs
+nutritionix>=1.0.0
+spoonacular-api>=1.0.0
+
+# Development & Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+black>=23.0.0
+isort>=5.12.0
+flake8>=6.0.0
+
+# Environment & Configuration
+python-dotenv>=1.0.0
+python-decouple>=3.8
+
+# Logging & Monitoring
+loguru>=0.7.0
+structlog>=23.2.0
+
+# Caching
+redis>=5.0.0
+redis-py-cluster>=2.1.0
+
+# Background Tasks
+celery>=5.3.0
+flower>=2.0.0  # Celery monitoring
+
+# Documentation
+mkdocs>=1.5.0
+mkdocs-material>=9.4.0
 
