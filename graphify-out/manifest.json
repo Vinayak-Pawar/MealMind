@@ -1,0 +1,132 @@
+{
+  "app/__init__.py": {
+    "mtime": 1784954567.469445,
+    "ast_hash": "914c8a38ced3cbde4d723aca94ee882a",
+    "semantic_hash": "914c8a38ced3cbde4d723aca94ee882a"
+  },
+  "app/config.py": {
+    "mtime": 1784954567.4702072,
+    "ast_hash": "e6687147efbfa9fb89886a0c1eb968d6",
+    "semantic_hash": "e6687147efbfa9fb89886a0c1eb968d6"
+  },
+  "app/database.py": {
+    "mtime": 1784954567.4702072,
+    "ast_hash": "f554829ef79d5b578f93bf4484b37b3a",
+    "semantic_hash": "f554829ef79d5b578f93bf4484b37b3a"
+  },
+  "app/main.py": {
+    "mtime": 1784954567.4702072,
+    "ast_hash": "59387bc5db5fb2e1a5b681dcf8debfec",
+    "semantic_hash": "59387bc5db5fb2e1a5b681dcf8debfec"
+  },
+  "app/models/__init__.py": {
+    "mtime": 1784954567.4702072,
+    "ast_hash": "9d66a90a5d7885477466cf342350a602",
+    "semantic_hash": "9d66a90a5d7885477466cf342350a602"
+  },
+  "app/models/ingredient.py": {
+    "mtime": 1784954567.4703543,
+    "ast_hash": "4b98a3dee45b01341fda3aed02f4ed94",
+    "semantic_hash": "4b98a3dee45b01341fda3aed02f4ed94"
+  },
+  "app/models/nutrition.py": {
+    "mtime": 1784954567.4703543,
+    "ast_hash": "d9866b2b277778c1d2e94e0abfe2e3dc",
+    "semantic_hash": "d9866b2b277778c1d2e94e0abfe2e3dc"
+  },
+  "app/models/recipe.py": {
+    "mtime": 1784954567.4703543,
+    "ast_hash": "a31e4d37aaef36d18d3a8e7615ab98e1",
+    "semantic_hash": "a31e4d37aaef36d18d3a8e7615ab98e1"
+  },
+  "app/models/user.py": {
+    "mtime": 1784954567.4703543,
+    "ast_hash": "508639daa619bd6f20a80e0f7cc9fc67",
+    "semantic_hash": "508639daa619bd6f20a80e0f7cc9fc67"
+  },
+  "app/routes/__init__.py": {
+    "mtime": 1784954567.4703543,
+    "ast_hash": "4ca171c58590c3a7469602ca00a43c45",
+    "semantic_hash": "4ca171c58590c3a7469602ca00a43c45"
+  },
+  "app/routes/auth.py": {
+    "mtime": 1784954567.4706194,
+    "ast_hash": "3392464694b05eccc66aa729325e3da3",
+    "semantic_hash": "3392464694b05eccc66aa729325e3da3"
+  },
+  "app/routes/camera.py": {
+    "mtime": 1784954567.4706194,
+    "ast_hash": "a2065609f6f6d2478338d7b9787a04b0",
+    "semantic_hash": "a2065609f6f6d2478338d7b9787a04b0"
+  },
+  "app/routes/image_generation.py": {
+    "mtime": 1784954567.4706194,
+    "ast_hash": "3e9fce00556a9de385fca5591a17d997",
+    "semantic_hash": "3e9fce00556a9de385fca5591a17d997"
+  },
+  "app/routes/ingredients.py": {
+    "mtime": 1784954567.4706194,
+    "ast_hash": "50023a1210f8362641e0742d236155bc",
+    "semantic_hash": "50023a1210f8362641e0742d236155bc"
+  },
+  "app/routes/nutrition.py": {
+    "mtime": 1784954567.4706194,
+    "ast_hash": "6692a7ec8232bcb44af7ee93cc5314f6",
+    "semantic_hash": "6692a7ec8232bcb44af7ee93cc5314f6"
+  },
+  "app/routes/recipes.py": {
+    "mtime": 1784954567.4706194,
+    "ast_hash": "046d98e4b02d7baa721d3ca1619c0f47",
+    "semantic_hash": "046d98e4b02d7baa721d3ca1619c0f47"
+  },
+  "app/routes/video_generation.py": {
+    "mtime": 1784954567.4706194,
+    "ast_hash": "694160d8c0b552e44b2dd18ef39eac1f",
+    "semantic_hash": "694160d8c0b552e44b2dd18ef39eac1f"
+  },
+  "app/services/__init__.py": {
+    "mtime": 1784954567.4706194,
+    "ast_hash": "b60d5b4dc47069e093c90a95a6141cfe",
+    "semantic_hash": "b60d5b4dc47069e093c90a95a6141cfe"
+  },
+  "app/services/camera_service.py": {
+    "mtime": 1784954567.470978,
+    "ast_hash": "53e30452a205da236b2ed479cce2763c",
+    "semantic_hash": "53e30452a205da236b2ed479cce2763c"
+  },
+  "app/services/image_service.py": {
+    "mtime": 1784954567.470978,
+    "ast_hash": "0f2d8e78b0236c4f975792474da2a03b",
+    "semantic_hash": "0f2d8e78b0236c4f975792474da2a03b"
+  },
+  "app/services/recommender.py": {
+    "mtime": 1784954567.470978,
+    "ast_hash": "c35e8b9b93d327c0e7cfc59f1335684c",
+    "semantic_hash": "c35e8b9b93d327c0e7cfc59f1335684c"
+  },
+  "app/services/video_service.py": {
+    "mtime": 1784954567.470978,
+    "ast_hash": "a68f6fcfbb7ebcc8eba23c8f3b457c7a",
+    "semantic_hash": "a68f6fcfbb7ebcc8eba23c8f3b457c7a"
+  },
+  "app/utils/__init__.py": {
+    "mtime": 1784954567.470978,
+    "ast_hash": "622cbbda14e58b828c1ccbd97e3f9367",
+    "semantic_hash": "622cbbda14e58b828c1ccbd97e3f9367"
+  },
+  "tests/__init__.py": {
+    "mtime": 1784954567.470978,
+    "ast_hash": "798507eef87e82478cc4fe81be2b33da",
+    "semantic_hash": "798507eef87e82478cc4fe81be2b33da"
+  },
+  "README.md": {
+    "mtime": 1784954567.469445,
+    "ast_hash": "347118963f832e39b883e786ffd14d67",
+    "semantic_hash": "347118963f832e39b883e786ffd14d67"
+  },
+  "requirements.txt": {
+    "mtime": 1784954567.470978,
+    "ast_hash": "b9ee0f6d989e07f5539a6e17db84a94c",
+    "semantic_hash": "b9ee0f6d989e07f5539a6e17db84a94c"
+  }
+}
